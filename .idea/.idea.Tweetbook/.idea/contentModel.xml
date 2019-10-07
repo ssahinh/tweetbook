@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sahin\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sahin\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Tweetbook.-1467416922.00" t="ExcludeRecursive" />
+    <e p="C:\Users\sahin\source\repos\Tweetbook" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Tweetbook" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Contracts" t="Include">
+          <e p="V1" t="Include">
+            <e p="ApiRoutes.cs" t="Include" />
+            <e p="Requests" t="Include">
+              <e p="CreatePostRequest.cs" t="Include" />
+              <e p="UpdatePostRequest.cs" t="Include" />
+              <e p="UserLoginRequest.cs" t="Include" />
+              <e p="UserRegistrationRequest.cs" t="Include" />
+            </e>
+            <e p="Responses" t="Include">
+              <e p="AuthFailedResponse.cs" t="Include" />
+              <e p="AuthSuccessResponse.cs" t="Include" />
+              <e p="PostResponse.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="V1" t="Include">
+            <e p="IdentityController.cs" t="Include" />
+            <e p="PostController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Data" t="Include">
+          <e p="DataContext.cs" t="Include" />
+        </e>
+        <e p="Domain" t="Include">
+          <e p="AuthenticationResult.cs" t="Include" />
+          <e p="Post.cs" t="Include" />
+        </e>
+        <e p="Installers" t="Include">
+          <e p="DbInstaller.cs" t="Include" />
+          <e p="IInstaller.cs" t="Include" />
+          <e p="InstallerExtensions.cs" t="Include" />
+          <e p="MvcInstaller.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20191004152614_AddProductReviews.cs" t="Include" />
+          <e p="20191004152614_AddProductReviews.Designer.cs" t="Include" />
+          <e p="20191005213755_InitialCreate.cs" t="Include" />
+          <e p="20191005213755_InitialCreate.Designer.cs" t="Include" />
+          <e p="DataContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Tweetbook.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Options" t="Include">
+          <e p="JwtSettings.cs" t="Include" />
+          <e p="SwaggerOptions.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="IdentityService.cs" t="Include" />
+          <e p="IIdentityService.cs" t="Include" />
+          <e p="IPostService.cs" t="Include" />
+          <e p="PostService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Tweetbook.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tweetbook.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
